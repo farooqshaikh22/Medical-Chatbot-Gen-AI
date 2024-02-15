@@ -1,3 +1,6 @@
 menv
-
 model/llama-2-7b-chat.ggmlv3.q2_K.bin
+model/llama-2-7b-chat.ggmlv3.q3_K_L.bin
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
+model/llama-2-7b-chat.ggmlv3.q3_K_M.bin
+model/llama-2-7b-chat.ggmlv3.q3_K_S.bin
