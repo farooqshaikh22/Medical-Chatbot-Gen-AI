@@ -12,7 +12,7 @@ list_of_files = [
     'setup.py',
     'app.py',
     'store_index.py',
-    'static',
+    'static/style.css',
     'templates/chat.html'
 ]
 
