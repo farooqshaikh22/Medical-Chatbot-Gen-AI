@@ -36,7 +36,7 @@ border-radius: 0 0 15px 15px !important;
 }
 .search{
 	border-radius: 15px 0 0 15px !important;
-	background-color: rgba(0,0,0,0.3) !important;
+	background-color: rgba(0, 0, 0, 0.809) !important;
 	border:0 !important;
 	color:white !important;
 }
@@ -45,7 +45,7 @@ border-radius: 0 0 15px 15px !important;
    outline:0px !important;
 }
 .type_msg{
-	background-color: rgba(0,0,0,0.3) !important;
+	background-color: rgba(0, 0, 0, 0.952) !important;
 	border:0 !important;
 	color:white !important;
 	height: 60px !important;
