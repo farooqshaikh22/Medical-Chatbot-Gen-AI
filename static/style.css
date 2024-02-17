@@ -1,7 +1,7 @@
 body, html {
     height: 100%;
     margin: 0;
-    background: rgb(111, 123, 93);
+    background: rgba(61, 148, 185, 0.971);
     background: -webkit-linear-gradient(to right, rgb(67, 57, 72), rgb(255, 184, 92));
     background: linear-gradient(to right, rgb(255, 94, 77), rgb(255, 184, 92));
 }
