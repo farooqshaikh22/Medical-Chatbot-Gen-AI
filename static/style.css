@@ -1,7 +1,7 @@
 body,html{
 	height: 100%;
 	margin: 0;
-	background: rgb(44, 47, 59);
+	background: rgb(26, 26, 27);
    background: -webkit-linear-gradient(to right, rgb(40, 59, 34), rgb(54, 60, 70), rgb(32, 32, 43));
 	background: linear-gradient(to right, rgb(38, 51, 61), rgb(50, 55, 65), rgb(33, 33, 78));
 }
@@ -45,7 +45,7 @@ border-radius: 0 0 15px 15px !important;
    outline:0px !important;
 }
 .type_msg{
-	background-color: rgba(85, 78, 78, 0.952) !important;
+	background-color: rgba(2, 7, 10, 0.952) !important;
 	border:0 !important;
 	color:white !important;
 	height: 60px !important;
@@ -57,21 +57,21 @@ border-radius: 0 0 15px 15px !important;
 }
 .attach_btn{
 	border-radius: 15px 0 0 15px !important;
-	background-color: rgba(0,0,0,0.3) !important;
+	background-color: rgba(101, 81, 218, 0.932) !important;
 	border:0 !important;
 	color: white !important;
 	cursor: pointer;
 }
 .send_btn{
 	border-radius: 0 15px 15px 0 !important;
-	background-color: rgba(0,0,0,0.3) !important;
+	background-color: rgba(16, 209, 216, 0.801) !important;
 	border:0 !important;
 	color: white !important;
 	cursor: pointer;
 }
 .search_btn{
 	border-radius: 0 15px 15px 0 !important;
-	background-color: rgba(0,0,0,0.3) !important;
+	background-color: rgba(3, 3, 3, 0.3) !important;
 	border:0 !important;
 	color: white !important;
 	cursor: pointer;
