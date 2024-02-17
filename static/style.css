@@ -2,8 +2,8 @@ body,html{
 	height: 100%;
 	margin: 0;
 	background: rgb(26, 26, 27);
-   background: -webkit-linear-gradient(to right, rgb(40, 59, 34), rgb(54, 60, 70), rgb(32, 32, 43));
-	background: linear-gradient(to right, rgb(38, 51, 61), rgb(50, 55, 65), rgb(33, 33, 78));
+   background: -webkit-linear-gradient(to right, rgb(85, 114, 76), rgb(53, 60, 73), rgb(32, 32, 43));
+	background: linear-gradient(to right, rgb(95, 115, 135), rgb(71, 86, 111), rgb(99, 99, 222));
 }
 
 .chat{
@@ -11,9 +11,9 @@ body,html{
 	margin-bottom: auto;
 }
 .card{
-	height: 500px;
+	height: 450px;
 	border-radius: 15px !important;
-	background-color: rgba(11, 11, 11, 0.442) !important;
+	background-color: rgba(18, 17, 17, 0.648) !important;
 }
 .contacts_body{
 	padding:  0.75rem 0 !important;
@@ -36,7 +36,7 @@ border-radius: 0 0 15px 15px !important;
 }
 .search{
 	border-radius: 15px 0 0 15px !important;
-	background-color: rgba(0, 0, 0, 0.809) !important;
+	background-color: rgba(14, 12, 12, 0.809) !important;
 	border:0 !important;
 	color:white !important;
 }
@@ -86,7 +86,7 @@ border-radius: 0 0 15px 15px !important;
 	margin-bottom: 15px !important;
 }
 .active{
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(7, 7, 7, 0.3);
 }
 .user_img{
 	height: 70px;
